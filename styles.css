@@ -1,0 +1,35 @@
+body {
+	background-color: blue;
+}
+p {
+	color: red;
+}
+h1 {
+	font-family: "helvetica neue", Arial serif
+color: blue;
+font-weight: lighter
+}
+.green-background {
+	background-color: green;
+}
+.dragons {
+	background-color: purple;
+	border: 20px solid red;
+}
+.image {
+	height: 50%;
+	width: 50%;
+}
+.image-container {
+	display:inline-block;
+	background-color: white
+}
+#main-content{
+	margin: 50px 75px 50px 75px;
+	padding: 100px 50px 100px 50px;
+	border: 5px solid black;
+}
+#second-content{
+	padding: 20px 20px 30px 30px;
+	border: 5px solid yellow;
+}
